@@ -37,7 +37,7 @@
                                     <action selector="startButtonAction:" destination="vV3-wo-nkS" eventType="touchUpInside" id="CWN-eF-xaA"/>
                                 </connections>
                             </button>
-                            <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="Enter no of players (upto 4 playeers)" textAlignment="natural" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="35n-Oq-N2y">
+                            <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="Enter no of players (upto 4 players)" textAlignment="natural" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="35n-Oq-N2y">
                                 <rect key="frame" x="20" y="292" width="353" height="21"/>
                                 <constraints>
                                     <constraint firstAttribute="height" constant="21" id="eol-Kb-daH"/>
